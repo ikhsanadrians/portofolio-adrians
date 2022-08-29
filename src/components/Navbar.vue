@@ -64,8 +64,15 @@
     }
 
   }
-    
- 
+     
+  
+  @media (max-width:600px) {
+     .content {
+       display:none; 
+  
+     }
+
+  }
 
 
  </style>
