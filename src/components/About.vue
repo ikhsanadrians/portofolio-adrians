@@ -14,8 +14,8 @@
             <div class="title">
              <h1 class="text-center text-white text-2xl md:text-2xl lg:text-3xl font-bold tracking-wider">About Me</h1>
             </div>
-            <div class="profil flex justify-center">
-              <img src="../assets/images/aing.png" alt="aing" class="h-[170px] mt-6">
+            <div class="profil flex justify-center select-none pointer-events-none">
+              <img src="../assets/images/aing.png" alt="aing" class="h-[170px] mt-6 drop-shadow-lg">
             </div>
             <div class="description flex justify-center ml-[8%] mr-[8%] lg:ml-[190px] lg:mr-[190px] mt-[30px]">
                     <p
