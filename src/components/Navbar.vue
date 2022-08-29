@@ -47,7 +47,7 @@
                      transition: .60s;
                      };
             a {
-                color:rgb(31, 27, 27);
+                color:rgb(30 41 59);
                 text-decoration:none;
                 font-weight: bold;
                 font-size: 1.1rem;
