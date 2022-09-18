@@ -1,4 +1,6 @@
-<script setup></script>
+<script setup>
+
+</script>
 <template>
    <div class="content">  
      <div class="inner-nav">
@@ -6,10 +8,10 @@
          
          </div>
          <ul>
-            <li><a href="">Home</a></li>
-            <li><a href="">About</a></li>
-            <li><a href="">Skills</a></li>
-            <li><a href="">Projects</a></li>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skill">Skills</a></li>
+            <li><a href="#project">Projects</a></li>
             <li><a href="">Contact</a></li>
          </ul>
      </div>
@@ -20,7 +22,6 @@
 
   .content { 
     width: 100%;
-    border-bottom : 1px solid #ddd;
     background-color: rgb(255, 255, 255,.7);
     position: fixed;
     top : 0;
