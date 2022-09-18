@@ -6,7 +6,7 @@ import Card from './Card.vue';
 </script>
 <template>
     <div class="skills-title flex justify-center text-4xl font-bold text-slate-700">
-        <h1>Skills</h1>
+        <h1 class="text-2xl md:text-2xl lg:text-3xl font-bold tracking-wider">Skills</h1>
     </div>
     <div class="skills-container pl-4 pr-4 lg:pl-24 lg:pr-24">
         
