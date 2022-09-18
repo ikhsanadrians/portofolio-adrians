@@ -6,6 +6,7 @@ import Skills from './components/Skills.vue';
 import Project from './components/Project.vue';
 
 
+
 </script>
 
 <template>

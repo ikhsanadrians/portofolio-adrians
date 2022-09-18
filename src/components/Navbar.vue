@@ -21,9 +21,10 @@
   .content { 
     width: 100%;
     border-bottom : 1px solid #ddd;
+    background-color: rgb(255, 255, 255,.7);
     position: fixed;
     top : 0;
-  
+    z-index: 99;
     
 
  .inner-nav{
