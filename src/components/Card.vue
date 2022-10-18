@@ -13,7 +13,6 @@
 </template>
 <style scoped lang="scss">
      .card {
-     
         border-radius: .6rem;
         display: flex;
         justify-content:center;

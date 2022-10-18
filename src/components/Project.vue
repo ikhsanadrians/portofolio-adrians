@@ -27,8 +27,8 @@ import ProjectCard from './ProjectCard.vue';
                         </div>
                         <div class="madefromandgit flex justify-between items-center">
                             <div class="madefrom px-4 w-full flex gap-2">
-                                <div class="from1 bg-red-600 max-w-full px-2 py-[3px] text-red-200 rounded-2xl">Laravel</div>
-                                <div class="from1 bg-sky-500 max-w-full px-2 py-[3px] text-sky-100 rounded-2xl">TailwindCSS</div>
+                                <div class="from1 bg-gradient-to-r from-red-600 to-red-700 max-w-full px-2 py-[3px] text-red-200 rounded-2xl shadow-red-300/60 shadow-lg flex gap-1 items-center"><i class="devicon-laravel-plain"></i>Laravel</div>
+                                <div class="from1 bg-gradient-to-r from-sky-500 to-sky-700 max-w-full px-2 py-[3px] text-sky-100 rounded-2xl shadow-sky-300/60 shadow-lg flex gap-1 items-center"><i class="devicon-tailwindcss-plain"></i>TailwindCSS</div>
                                
                             </div>
                             <div class="github pr-4">
@@ -50,8 +50,8 @@ import ProjectCard from './ProjectCard.vue';
                         </div>
                         <div class="madefromandgit flex justify-between items-center">
                             <div class="madefrom px-4 w-full flex gap-2">
-                                <div class="from1 bg-emerald-400 max-w-full px-2 py-[3px] text-green-900 rounded-2xl">Vue-Axios</div>
-                                <div class="from1 bg-pink-500 max-w-full px-2 py-[3px] text-pink-100 rounded-2xl">SCSS</div>
+                                <div class="from1 bg-gradient-to-r from-emerald-600 to-emerald-500 max-w-full px-2 py-[3px] text-white rounded-2xl flex gap-1 items-center shadow-emerald-500/60 shadow-lg"><i class="devicon-vuejs-plain text-white"></i>Vue-Axios</div>
+                                <div class="from1 bg-gradient-to-r from-pink-500 to-pink-600 max-w-full px-2 py-[3px] text-pink-100 rounded-2xl flex gap-1 items-center shadow-pink-500/60 shadow-lg"><i class="devicon-sass-original"></i>SCSS</div>
                                
                             </div>
                             <div class="github pr-4">
@@ -73,7 +73,7 @@ import ProjectCard from './ProjectCard.vue';
                         </div>
                         <div class="madefromandgit flex justify-between items-center">
                             <div class="madefrom px-4 w-full flex gap-2">
-                                <div class="from1 bg-slate-500 max-w-full px-2 py-[3px] text-zinc-100 rounded-2xl">Wordpress</div>
+                                <div class="from1 bg-gradient-to-r from-slate-500 to-slate-600 max-w-full px-2 py-[3px] text-zinc-100 rounded-2xl flex gap-1 items-center shadow-gray-500/60 shadow-lg"><i class="devicon-wordpress-plain"></i>Wordpress</div>
                              
                                
                             </div>
@@ -94,7 +94,7 @@ import ProjectCard from './ProjectCard.vue';
                         </div>
                         <div class="madefromandgit flex justify-between items-center">
                             <div class="madefrom px-4 w-full flex gap-2">
-                                <div class="from1 bg-yellow-500 max-w-full px-2 py-[3px] text-white rounded-2xl">Javascript</div>
+                                <div class="from1 bg-gradient-to-r from-yellow-600 to-yellow-500 max-w-full px-2 py-[3px] text-white rounded-2xl flex gap-1 items-center shadow-yellow-500/60 shadow-lg"><i class="devicon-javascript-plain"></i>Javascript</div>
                              
                                
                             </div>
@@ -115,7 +115,7 @@ import ProjectCard from './ProjectCard.vue';
                         </div>
                         <div class="madefromandgit flex justify-between items-center">
                             <div class="madefrom px-4 w-full flex gap-2">
-                                <div class="from1 bg-blue-500 max-w-full px-2 py-[3px] text-white rounded-2xl">React Js</div>
+                                <div class="from1 bg-gradient-to-r from-blue-500 to-blue-400 max-w-full px-2 py-[3px] text-white rounded-2xl flex items-center gap-1 shadow-blue-500/60 shadow-lg"><i class="devicon-react-original"></i>React Js</div>
                              
                                
                             </div>
@@ -136,8 +136,8 @@ import ProjectCard from './ProjectCard.vue';
                         </div>
                         <div class="madefromandgit flex justify-between items-center">
                             <div class="madefrom px-4 w-full flex gap-2">
-                                <div class="from1 bg-indigo-400 max-w-full px-2 py-[3px] text-white rounded-2xl">PHP</div>
-                                <div class="from1 bg-blue-600 max-w-full px-2 py-[3px] text-white rounded-2xl">Native CSS</div>
+                                <div class="from1 bg-gradient-to-r from-indigo-500 to-indigo-400 max-w-full px-2 py-[3px] text-white rounded-2xl flex gap-1 items-center shadow-indigo-400/60 shadow-lg"><i class="devicon-php-plain"></i>PHP</div>
+                                <div class="from1 bg-gradient-to-r from-blue-600 to-blue-500 max-w-full px-2 py-[3px] text-white rounded-2xl flex gap-1 items-center shadow-blue-500/60 shadow-lg"><i class="devicon-css3-plain"></i>Native CSS</div>
                                
                             </div>
                             
