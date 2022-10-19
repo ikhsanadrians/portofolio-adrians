@@ -110,7 +110,7 @@ import ProjectCard from './ProjectCard.vue';
                             <h2 class="font-semibold text-slate-700 text-xl">
                                 FullStack Web Roadmap
                             </h2> 
-                            <p class="text-lg text-slate-600">Roadmap to be a FullStack Web Developer</p>
+                            <p class="text-lg text-slate-600">The Roadmap to be a FullStack Web Developer</p>
                                 
                         </div>
                         <div class="madefromandgit flex justify-between items-center">
