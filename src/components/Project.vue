@@ -89,7 +89,7 @@ import ProjectCard from './ProjectCard.vue';
                             <h2 class="font-semibold text-slate-700 text-xl">
                                 Javascript Calculator
                             </h2> 
-                            <p class="text-lg text-slate-600">Simple Javascript Calculator That Can Do simple number operation</p>
+                            <p class="text-lg text-slate-600">Simple Javascript Calculator That Can Do simple number operation, created with native JS and CSS</p>
                                 
                         </div>
                         <div class="madefromandgit flex justify-between items-center">
@@ -110,7 +110,7 @@ import ProjectCard from './ProjectCard.vue';
                             <h2 class="font-semibold text-slate-700 text-xl">
                                 FullStack Web Roadmap
                             </h2> 
-                            <p class="text-lg text-slate-600">The Roadmap to be a FullStack Web Developer</p>
+                            <p class="text-lg text-slate-600">The Roadmap to be a FullStack Web Developer, Build With React JS And TailwindCSS</p>
                                 
                         </div>
                         <div class="madefromandgit flex justify-between items-center">
@@ -131,7 +131,7 @@ import ProjectCard from './ProjectCard.vue';
                             <h2 class="font-semibold text-slate-700 text-xl">
                                 Todolist
                             </h2> 
-                            <p class="text-lg text-slate-600">Simple To Do List Application, make your own list</p>
+                            <p class="text-lg text-slate-600">Simple To Do List Application, make your own list , Build with Native PHP and Native CSS</p>
                                 
                         </div>
                         <div class="madefromandgit flex justify-between items-center">
@@ -155,7 +155,7 @@ import ProjectCard from './ProjectCard.vue';
        
     </section>
    
-</template>
+</template> 
 <style scoped lang="scss">
  .title {
     text-align:center;
