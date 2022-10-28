@@ -5,6 +5,9 @@ import Card from './Card.vue';
 
 </script>
 <template>
+
+   <!--card-->
+   
     <section id="skill">
 
         <div class="skills-title flex justify-center text-4xl font-bold text-slate-700">
