@@ -16,7 +16,7 @@ import ProjectCard from './ProjectCard.vue';
                     <div class="mt-14 lg:px-44 md:px-22 project-wrapper w-full flex flex-wrap md:gap-4 lg:gap-4 px-10 justify-center">
                       <ProjectCard>
                         <div class="inner w-full h-1/2 object-cover">
-                            <img src="../assets/images/projects/connexsoftforums.JPG" alt="das" class="w-full h-full">
+                            <img src="../assets/images/projects/connexsoftforums.JPG" loading="lazy" alt="das" class="w-full h-full">
                         </div>
                         <div class="description p-4">
                             <h2 class="font-semibold text-slate-700 text-xl">
@@ -39,7 +39,7 @@ import ProjectCard from './ProjectCard.vue';
                       </ProjectCard>
                       <ProjectCard>
                         <div class="inner w-full h-1/2 object-cover">
-                            <img src="../assets/images/projects/funfact.JPG" alt="das" class="w-full h-full">
+                            <img src="../assets/images/projects/funfact.JPG" alt="das" loading="lazy" class="w-full h-full">
                         </div>
                         <div class="description p-4">
                             <h2 class="font-semibold text-slate-700 text-xl">
@@ -62,7 +62,7 @@ import ProjectCard from './ProjectCard.vue';
                       </ProjectCard>
                       <ProjectCard>
                         <div class="inner w-full h-1/2 object-cover">
-                            <img src="https://adrianikhsan.netlify.app/img/MPK.JPG" alt="das" class="w-full h-full">
+                            <img src="https://adrianikhsan.netlify.app/img/MPK.JPG" alt="das" loading="lazy" class="w-full h-full">
                         </div>
                         <div class="description p-4">
                             <h2 class="font-semibold text-slate-700 text-xl">
@@ -83,7 +83,7 @@ import ProjectCard from './ProjectCard.vue';
                       </ProjectCard>
                       <ProjectCard>
                         <div class="inner w-full h-1/2 object-cover">
-                            <img src="https://adrianikhsan.netlify.app/img/JsCalc.JPG" alt="das" class="w-full h-full">
+                            <img src="https://adrianikhsan.netlify.app/img/JsCalc.JPG" alt="das" loading="lazy" class="w-full h-full">
                         </div>
                         <div class="description p-4">
                             <h2 class="font-semibold text-slate-700 text-xl">
@@ -104,7 +104,7 @@ import ProjectCard from './ProjectCard.vue';
                       </ProjectCard>
                          <ProjectCard>
                         <div class="inner w-full h-1/2 object-cover">
-                            <img src="https://adrianikhsan.netlify.app/img/fullstackroadmap.JPG" alt="das" class="w-full h-full">
+                            <img src="https://adrianikhsan.netlify.app/img/fullstackroadmap.JPG"  loading="lazy" alt="das" class="w-full h-full">
                         </div>
                         <div class="description p-4">
                             <h2 class="font-semibold text-slate-700 text-xl">
@@ -125,7 +125,7 @@ import ProjectCard from './ProjectCard.vue';
                       </ProjectCard>
                       <ProjectCard>
                         <div class="inner w-full h-1/2 object-cover">
-                            <img src="https://adrianikhsan.netlify.app/img/Todolist.JPG" alt="das" class="w-full h-full">
+                            <img src="https://adrianikhsan.netlify.app/img/Todolist.JPG" loading="lazy" alt="das" class="w-full h-full">
                         </div>
                         <div class="description p-4">
                             <h2 class="font-semibold text-slate-700 text-xl">
