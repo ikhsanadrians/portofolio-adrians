@@ -1,8 +1,9 @@
 <script setup>
 import Card from './Card.vue';
 
-
-
+tippy('#css', {
+  content: 'Tooltip',
+});
 </script>
 <template>
 
