@@ -103,7 +103,7 @@ import ProjectCard from './ProjectCard.vue';
                        
                       </ProjectCard>
                          <ProjectCard>
-                        <div class="inner w-full h-1/2 object-cover">
+                        <div class="inners w-full h-1/2 object-cover">
                             <img src="https://adrianikhsan.netlify.app/img/fullstackroadmap.JPG"  loading="lazy" alt="das" class="w-full h-full">
                         </div>
                         <div class="description p-4">
