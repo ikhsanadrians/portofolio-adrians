@@ -22,7 +22,7 @@
 
   .content { 
     width: 100%;
-    background-color: rgb(255, 255, 255,.7);
+    background-color: rgb(255, 255, 255,.5);
     position: fixed;
     top : 0;
     z-index: 99;

@@ -55,7 +55,7 @@ import ProjectCard from './ProjectCard.vue';
                                
                             </div>
                             <div class="github pr-4">
-                              <a href="https://github.com/ikhsanadrians/connexsoft-forums_master" target="_blank"><i class="devicon-github-original colored text-2xl"></i></a>
+                              <a href="https://github.com/ikhsanadrians/funfactgenerator-api" target="_blank"><i class="devicon-github-original colored text-2xl"></i></a>
                             </div>
                         </div>
                        
